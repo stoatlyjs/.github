@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
+	<br />
+	<p>
+		<a href="https://stoatly.js.org/"><img src="https://stoatly.js.org/assets/logo.png" width="546" alt="stoatly.js" /></a>
+	</p>
+</div>
 
-<!--
+## About 
 
-**Here are some ideas to get you started:**
+We develop stoatly.js, We are an independent group of open-source developers, contributors, and bot enthusiasts dedicated to creating accessible tooling for the StoatChat ecosystem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Stoat Server]
+- [Guide]
+- [Website]
+
+Our goal is to make bot development intuitive and fun. We want to enable anyone regardless of their JavaScript/TypeScript experience to spin up functional, reactive chat bots in minutes.
+
+[Stoat server]: https://stt.gg/bSpqB0es
+[Guide]: https://stoatly.gitbook.io/
+[Website]: https://stoatly.js.org/
